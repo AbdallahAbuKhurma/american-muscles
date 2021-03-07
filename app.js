@@ -8,11 +8,11 @@ while(order != 'charger' && order != 'corvette')
 var itemorder = '';
 if(order == 'charger')
 {
-    itemorder = 'img src="images/car1.png" />';
+    itemorder = '<img src="images/car1.png" />';
 }
 else
 {
-    itemorder = 'img src="images/car2.png" />';
+    itemorder = '<img src="images/car2.png" />';
 }
 
 var numofcars = prompt("How many car would you like to see?")
