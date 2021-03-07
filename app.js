@@ -2,7 +2,8 @@ var order = prompt ("which car do you prefer charger or corvette?")
 
 while(order != 'charger' && order != 'corvette')
 {
-    order = prompt ("which car do you prefer?")
+    order = prompt  ("which car do you prefer charger or corvette?")
+
 }
 
 var itemorder = '';
