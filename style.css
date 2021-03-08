@@ -1,0 +1,35 @@
+/*
+1. change the background color of the header
+2. h1 header to the center 
+3. remove list decoration
+4. horizontal list
+edit image size
+change paragraghs font style and size 
+*/
+header {
+    background-color: #A4E8BC;
+}
+h1{
+    text-align: center;color: black;
+}
+
+header nav ul{
+    list-style: none;
+}
+header nav ul li{
+    display: inline;
+    margin-right: 20px;    
+}
+header nav ul li{
+    text-decoration: none;
+}
+footer{
+    background-color: #4ABA8D;
+
+}
+p{
+    color: #1C6161;
+    text-decoration: solid;
+}
+
+
